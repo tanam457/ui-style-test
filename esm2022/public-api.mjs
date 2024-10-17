@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ui-style
+ */
+export * from './lib/ui-style.service';
+export * from './lib/ui-style.component';
+export * from './lib/components/components';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3VpLXN0eWxlL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNkJBQTZCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHVpLXN0eWxlXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvdWktc3R5bGUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi91aS1zdHlsZS5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY29tcG9uZW50cy9jb21wb25lbnRzJztcbiJdfQ==
